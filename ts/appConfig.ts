@@ -4,4 +4,4 @@ function print(prop: string) {
 	console.log(prop);
 };
 
-print(appConfig.app.appOwner);
+print(appConfig.app.owner);
